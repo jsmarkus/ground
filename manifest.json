@@ -1,0 +1,12 @@
+{
+  "manifest_version": 2,
+  "name": "Ground.js test",
+  "version": "1",
+  "permissions": [],
+  "app": {
+    "background": {
+      "scripts": ["ground.js", "ground-test.js"]
+    }
+  },
+  "minimum_chrome_version": "32"
+}
